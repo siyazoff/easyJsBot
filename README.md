@@ -1,0 +1,2 @@
+# easyJsBot
+Telegram bot
